@@ -48,6 +48,5 @@ true,
 [" ", " ", " ", " ", " ", " ", "B", "B", "B", "B", " ", " ", " ", " ", " ", " ", "B", "B", " "],
 [" ", " ", " ", " ", " ", " ", "B", "B", " ", "B", " ", " ", " ", " ", " ", " ", "B", "B", " "]],
 "I am just a board! I cannot remove what is not there!",
-"I am just a board! I cannot remove what is not there!",
-["1-5", "2-4", "2-5", "2-6", "2-8", "6-4", "6-6", "7-5", "7-6", "10-6", "12-12", "13-8", "14-4"]
+"I am just a board! I cannot remove what is not there!"
 ]
